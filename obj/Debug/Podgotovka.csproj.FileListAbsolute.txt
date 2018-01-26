@@ -1,0 +1,9 @@
+c:\users\никита\documents\visual studio 2015\Projects\Podgotovka\Podgotovka\bin\Debug\Podgotovka.exe.config
+c:\users\никита\documents\visual studio 2015\Projects\Podgotovka\Podgotovka\bin\Debug\Podgotovka.exe
+c:\users\никита\documents\visual studio 2015\Projects\Podgotovka\Podgotovka\bin\Debug\Podgotovka.pdb
+c:\users\никита\documents\visual studio 2015\Projects\Podgotovka\Podgotovka\obj\Debug\Podgotovka.csprojResolveAssemblyReference.cache
+c:\users\никита\documents\visual studio 2015\Projects\Podgotovka\Podgotovka\obj\Debug\Podgotovka.Form1.resources
+c:\users\никита\documents\visual studio 2015\Projects\Podgotovka\Podgotovka\obj\Debug\Podgotovka.Properties.Resources.resources
+c:\users\никита\documents\visual studio 2015\Projects\Podgotovka\Podgotovka\obj\Debug\Podgotovka.csproj.GenerateResource.Cache
+c:\users\никита\documents\visual studio 2015\Projects\Podgotovka\Podgotovka\obj\Debug\Podgotovka.exe
+c:\users\никита\documents\visual studio 2015\Projects\Podgotovka\Podgotovka\obj\Debug\Podgotovka.pdb
